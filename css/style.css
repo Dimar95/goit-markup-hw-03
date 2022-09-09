@@ -168,7 +168,7 @@ line-height: 1.15;
 text-transform: uppercase;
 margin-top: 0;
 margin-bottom: 10px;
-padding-top: 94px ;
+/* padding-top: 94px ; */
 }
 .section{
 
@@ -194,6 +194,9 @@ padding-top: 94px ;
 
     text-align: center;
     margin: 0 0 50px 0;
+}
+.section-galery{
+    padding-top: 0;
 }
 .galery{
     padding-left: 0;
